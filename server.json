@@ -1,0 +1,20 @@
+{
+    "produtos": [
+{
+"id":1,
+"photo":"https://images.samsung.com/is/image/samsung/br-galaxy-a51-a515-sm-a515fzbbzto-front-229199910?$684_547_PNG$",
+"name":"Iphone",
+"description":"Descrição do produto",
+"price":9000
+
+  },
+  {
+    "id":2,
+    "photo":"https://images.samsung.com/is/image/samsung/br-galaxy-a51-a515-sm-a515fzbbzto-front-229199910?$684_547_PNG$",
+    "name":"Galaxy",
+    "description":"Descrição do produto",
+    "price":5000
+    
+      }
+ ]
+}
