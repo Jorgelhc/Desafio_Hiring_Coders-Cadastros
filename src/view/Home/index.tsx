@@ -5,14 +5,13 @@ import { Link } from 'react-router-dom';
 
 const Home: React.FC = () => {
     
-
+  
   return( 
 
 <Container>
     
 <section>
 
-<div>
 
 <div className="sectionOne">
 <h1 className="title" >
@@ -28,7 +27,7 @@ const Home: React.FC = () => {
 
 </div>
 
-</div>
+
 </section>
 
    </Container>

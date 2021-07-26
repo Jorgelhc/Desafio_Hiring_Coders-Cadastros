@@ -11,7 +11,7 @@ return(
     <BrowserRouter>
 <Switch>
 
-<Route path = '/home' exact component={Home}/>
+<Route path = '/' exact component={Home}/>
 <Route path = '/client' exact component={Client}/>
 <Route path = '/product' exact component={Products}/>
 
