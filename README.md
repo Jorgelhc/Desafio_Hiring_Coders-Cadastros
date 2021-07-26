@@ -1,3 +1,14 @@
+
+# Desafio Hiring Coders Cadastros
+
+Hiring Coders - Desafio #2: Cadastros
+
+Endereço da landing page:https://pagina-cadastro-desafio-hiring-coders.netlify.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
