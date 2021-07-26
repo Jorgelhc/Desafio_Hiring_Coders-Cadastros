@@ -123,7 +123,7 @@ function userRegistry () {
 
 </div> 
 
-<Link to ="/home" className="link"> Voltar</Link>
+<Link to ="/" className="link"> Voltar</Link>
 
 
 </section>
