@@ -1,7 +1,5 @@
 import React, {useState} from "react";
 import {Container} from './style'
-import api from "../../services/api";
-import { useEffect } from "react";
 import { Link } from 'react-router-dom';
 
 
